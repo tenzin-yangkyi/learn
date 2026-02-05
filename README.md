@@ -1,2 +1,2 @@
 # learn
-learning about git and GitHub
+learning about git and GitHub.
